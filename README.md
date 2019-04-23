@@ -1,4 +1,5 @@
 # tnt
 School Project
 
-<h1>Project for GIBS</h1>
+<h4>Project for GIBS</h4>
+<hr></hr>
